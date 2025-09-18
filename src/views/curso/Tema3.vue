@@ -13,16 +13,16 @@
         .bg-color-5.p-4(data-aos="fade-left")
           ul.lista-ul--color
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Interoperabilidad entre dispositivos de distintos fabricantes.
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Flujo eficiente de datos entre capas.
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Distribución de carga entre edge y cloud.
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Seguridad e integridad del sistema completo.
     
     .bg-full-width.bg-color-3.mb-5
@@ -203,16 +203,16 @@
         .bg-color-2.p-5(data-aos="fade-left")
           ul.lista-ul--color
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Protocolos de comunicación
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Formatos de datos
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Modelos de seguridad
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Patrones operativos
 
     .bg-full-width.bg-color-12
@@ -301,19 +301,19 @@
           h5 Sus funciones clave incluyen:
           ul.lista-ul--color
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Traducción de protocolos
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Enrutamiento inteligente de mensajes
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Gestión de identidades de dispositivos
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 <em>Buffering</em> de datos para conectividad intermitente
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Aplicación de políticas de seguridad y calidad de servicio
         p Con la evolución tecnológica, el middleware ha incorporado capacidades como:
 
@@ -398,19 +398,19 @@
         .bg-color-2.p-4(data-aos="fade-left").mb-5
           ul.lista-ul--color
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Latencia
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Rendimiento (<em>throughput</em>)
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Confiabilidad de entrega
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Escalabilidad
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Eficiencia en el uso de red
         p La elección del modelo de comunicación tiene un impacto directo en el rendimiento global del sistema y su capacidad para adaptarse a cargas variables y crecimiento futuro.
 

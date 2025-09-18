@@ -37,16 +37,16 @@
         .bg-color-5.p-4(data-aos="fade-left")
           ul.lista-ul--color
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 <em>Hardware</em> especializado
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Protocolos de comunicación
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Plataformas de <em>software</em>
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Servicios en la nube
     
     .row.mb-5
@@ -59,16 +59,16 @@
         .bg-color-6.p-4(data-aos="fade-left").mb-5
           ul.lista-ul--color
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Eficiencia energética.
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Latencia de comunicación.
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Seguridad de datos.
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Interoperabilidad entre diferentes dispositivos y plataformas.
         
         p La comprensión de estos elementos es esencial para desarrollar aplicaciones que puedan adaptarse a los constantes cambios tecnológicos y requerimientos del mercado.

@@ -1,6 +1,6 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno(:subTitulo="'5. Título tema'")
+  BannerInterno(:subTitulo="'5. Riesgos de seguridad en IoT'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
 
     #t_5_1.titulo-segundo(data-aos="flip-up")

@@ -81,6 +81,73 @@ export default {
         ],
       },
       {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Protocolos clave (MQTT, CoAP)',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.1',
+            titulo: 'MQTT: Características y usos',
+            hash: 't_4_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.2',
+            titulo: 'CoAP: Características y ventajas',
+            hash: 't_4_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.3',
+            titulo: 'HTTP/HTTPS para IoT',
+            hash: 't_4_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.4',
+            titulo: 'BLE (Bluetooth Low Energy) y Zigbee',
+            hash: 't_4_4',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        icono: 'far fa-file-alt',
+        numero: '5',
+        titulo: 'Riesgos de seguridad en IoT',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.1',
+            titulo:
+              'Amenazas comunes: piratería informática, software malicioso',
+            hash: 't_5_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.2',
+            titulo: 'Vulnerabilidades de dispositivos IoT',
+            hash: 't_5_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.3',
+            titulo: 'Brechas de seguridad en redes IoT',
+            hash: 't_5_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.4',
+            titulo: 'Impacto de los ataques en sistemas IoT',
+            hash: 't_5_4',
+          },
+        ],
+      },
+      {
         nombreRuta: 'sintesis',
         titulo: 'Síntesis',
         desarrolloContenidos: true,

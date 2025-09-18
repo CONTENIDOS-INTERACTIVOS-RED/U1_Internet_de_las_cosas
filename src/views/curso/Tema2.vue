@@ -147,10 +147,10 @@
             .bg-color-2.p-4(data-aos="fade-left").mb-4
               ul.lista-ul--color
                 li.mb-0.d-flex
-                  i.far.fa-arrow-alt-circle-right
+                  i.far.fa-arrow-alt-circle-right.bg-color-17
                   p.mb-0 Arduino es preferido en entornos donde la eficiencia energética es prioritaria y las tareas son simples.
                 li.mb-0.d-flex
-                  i.far.fa-arrow-alt-circle-right
+                  i.far.fa-arrow-alt-circle-right.bg-color-17
                   p.mb-0 Raspberry Pi se emplea para tareas más intensivas como procesamiento de imágenes, manejo de bases de datos y servicios web.
             p Actualmente, es común el uso de plataformas híbridas que combinan microcontroladores como Arduino con sistemas embebidos como Raspberry Pi, optimizando el rendimiento y la funcionalidad.
 
@@ -343,19 +343,19 @@
         .bg-color-5.p-4(data-aos="fade-left")
           ul.lista-ul--color
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Gestión de dispositivos
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Procesamiento de eventos en tiempo real
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Almacenamiento de series temporales
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Análisis predictivo
             li.mb-0.d-flex
-              i.far.fa-arrow-alt-circle-right
+              i.far.fa-arrow-alt-circle-right.bg-color-17
               p.mb-0 Interfaces de programación (APIs) para integración con aplicaciones empresariales
     
     .row.mb-5
