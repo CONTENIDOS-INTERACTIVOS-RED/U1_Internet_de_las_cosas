@@ -524,26 +524,7 @@
               a(href="https://elibro.net/es/ereader/tecnologicadeloriente/280532?page=1" target="_blank" rel="noopener noreferrer") Ruiz-Velasco Sánchez, E. & Bárcenas López, J. (2025). Educatrónica tecnología de inteligencia artificial (robótica, programación e internet de las cosas): (1 ed.). Newton Edición y Tecnología Educativa. 
 
 
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://arxiv.org/abs/1210.2410" target="_blank" rel="noopener noreferrer") Khan, R., Khan, S. U., Zaheer, R., & Khan, S. (2012). Future Internet: The Internet of Things Architecture, Possible Applications and Key Challenges. 10th International Conference on Frontiers of Information Technology (FIT).
-
-
-
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.fiware.org/about-us/what-is-fiware/ " target="_blank" rel="noopener noreferrer") FIWARE Foundation. (2023). What is FIWARE? – Enabling Smart Solutions.
-
-
-
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.redhat.com/es/topics/middleware/what-is-middleware" target="_blank" rel="noopener noreferrer") Red Hat. (s.f.). ¿Qué es el middleware? Red Hat. 
-
-
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.fiware.org/about-us/what-is-fiware/" target="_blank" rel="noopener noreferrer") FIWARE - Middleware de código abierto para IoT. FIWARE es una plataforma de middleware diseñada para facilitar la interoperabilidad en IoT mediante APIs abiertas. Ideal para analizar su rol en gestión de datos, dispositivos y servicios.
+            
 
 
             p.d-flex.my-4

@@ -146,18 +146,7 @@
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://elibro.net/es/ereader/tecnologicadeloriente/280532?page=1" target="_blank" rel="noopener noreferrer") Ruiz-Velasco Sánchez, E. & Bárcenas López, J. (2025). Educatrónica tecnología de inteligencia artificial (robótica, programación e internet de las cosas): (1 ed.). Newton Edición y Tecnología Educativa. 
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://doi.org/10.1016/j.future.2013.01.010" target="_blank" rel="noopener noreferrer") Gubbi, J., Buyya, R., Marusic, S., & Palaniswami, M. (2013). Internet of Things (IoT): A vision, architectural elements, and future directions. Future Generation Computer Systems, 29(7), 1645-1660. 
-
-
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://arxiv.org/abs/1401.6877" target="_blank" rel="noopener noreferrer") Abdmeziem, R., & Tandjaoui, D. (2014). Internet of Things: Concept, building blocks, applications and challenges. arXiv preprint arXiv:1401.6877. 
             
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.netacad.com/courses/packet-tracer " target="_blank" rel="noopener noreferrer") Cisco Packet Tracer (versión educativa IoT) Aunque Packet Tracer es software propietario, Cisco ofrece versiones educativas gratuitas con simuladores de sensores IoT, actuadores y redes. Se puede utilizar como entorno virtual para configurar nodos, sensores y dispositivos conectados.
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")

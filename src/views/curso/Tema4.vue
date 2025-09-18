@@ -33,7 +33,7 @@
       .p-4.p-md-5
         SlyderA(tipo="b").bg-white
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5
+            .col-lg-5.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema4/2.png")
             .col-lg-7.mb-3.mb-lg-0
@@ -53,7 +53,7 @@
                   p.mb-0 Muy utilizado en aplicaciones empresariales y sistemas con muchos sensores.
     
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5
+            .col-lg-5.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema4/3.png")
             .col-lg-7.mb-3.mb-lg-0
@@ -79,6 +79,7 @@
             img(src="@/assets/curso/tema4/4.svg", style="max-width: 90px").mx-auto
           .col-lg.text-white
             p.mb-0 En las secciones siguientes se analizarán más a fondo las aplicaciones prácticas de MQTT en sistemas empresariales IoT, las ventajas de CoAP en dispositivos restringidos, y la implementación de otros protocolos como HTTP/HTTPS, BLE y Zigbee. Finalmente, se presentará una comparación detallada entre MQTT y CoAP para apoyar decisiones fundamentadas en proyectos de ingeniería de software.
+
 
     #t_4_1.titulo-segundo(data-aos="flip-up")
       h2 #[span 4.1] MQTT: Características y usos
@@ -588,15 +589,29 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
+              a(href="https://elibro.net/es/ereader/tecnologicadeloriente/280029?page=1" target="_blank" rel="noopener noreferrer") Domínguez Mínguez, T. (2020). Desarrollo de aplicaciones IoT en la nube para Arduino y ESP8266: (1 ed.). Marcombo. 
+
 
             p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/ereader/tecnologicadeloriente/280039?page=1" target="_blank" rel="noopener noreferrer") Domínguez Mínguez, T. (2021). Alexa. Desarrollo de aplicaciones IoT para Arduino y ESP8266: (1 ed.). Marcombo. 
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/233414" target="_blank" rel="noopener noreferrer") Rosa, J. M. D. L. (2021). De la micro a la nanoelectrónica: impulsando la transformación digital: (1 ed.). Los libros de la Catarata. 
+
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+              a(href="https://youtu.be/ZMnSWYk0aSo " target="_blank" rel="noopener noreferrer") Domótica DaVinci. (2020, 24 de abril). 20200422 Webinar Introducción a MQTT. [Vídeo] YouTube.
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://youtu.be/0llAm_uzR0Q" target="_blank" rel="noopener noreferrer") thethings.iO. (2016, 21 de enero). How to learn CoAP in 5 minutes. [Vídeo] YouTube. 
+
+
+
+
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure

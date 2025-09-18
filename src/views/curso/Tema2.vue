@@ -465,20 +465,7 @@
 
 
 
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://arxiv.org/abs/1902.11039" target="_blank" rel="noopener noreferrer") Salman, T., & Jain, R. (2019). A survey of protocols and standards for Internet of Things. Advanced Computing and Communications.
-
-
-
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://doi.org/10.1109/COMST.2015.2444095 " target="_blank" rel="noopener noreferrer") Al-Fuqaha, A., Guizani, M., Mohammadi, M., Aledhari, M., & Ayyash, M. (2015). Internet of Things: A Survey on Enabling Technologies, Protocols, and Applications. IEEE Communications Surveys & Tutorials, 17(4), 2347-2376.
-
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.iot-lab.info/" target="_blank" rel="noopener noreferrer") IoT-LAB (FIT/IoT-LAB) Plataforma de investigación abierta que permite simular arquitecturas IoT de múltiples capas (sensores, gateways, red, nube). Es utilizada por universidades y centros de investigación.
-
+            
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
               a(href="https://youtu.be/dzMq4h3JT2g" target="_blank" rel="noopener noreferrer") Software Guru. (2015, 12 de noviembre). Método y herramientas para el diseño y construcción de dispositivos IoT. [Vídeo] YouTube. 
