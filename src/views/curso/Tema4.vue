@@ -1,7 +1,32 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno(:subTitulo="'4. Título tema'")
+  BannerInterno(:subTitulo="'4. Protocolos clave (MQTT, CoAP)'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
+
+    .row.mb-5
+      .col-lg-4.mb-3.mb-lg-0
+        figure
+          img(src="@/assets/curso/tema4/1.png", data-aos="zoom-in")
+      .col-lg-8
+        p(data-aos="fade-left") Los protocolos de comunicación especializados para IoT han revolucionado la forma en que los dispositivos inteligentes intercambian información en redes distribuidas. Diseñados para operar eficientemente en entornos con limitaciones de ancho de banda, procesamiento y energía, estos protocolos permiten mantener comunicaciones confiables optimizando los recursos del sistema. Cada protocolo ha sido desarrollado para resolver desafíos específicos en la comunicación máquina a máquina (M2M). Por ejemplo:
+    
+        .bg-color-5.p-4(data-aos="fade-left")
+          ul.lista-ul--color
+            li.mb-0.d-flex
+              i.far.fa-arrow-alt-circle-right
+              p.mb-0 <b>MQTT</b> se destaca por su arquitectura publicar-suscribir, ideal para comunicación asíncrona.
+
+            li.mb-0.d-flex
+              i.far.fa-arrow-alt-circle-right
+              p.mb-0 <b>CoAP</b> emplea un modelo RESTful optimizado para dispositivos con recursos limitados.
+
+            li.mb-0.d-flex
+              i.far.fa-arrow-alt-circle-right
+              p.mb-0 <b>HTTP/HTTPS</b> ofrece compatibilidad con infraestructuras web existentes.
+
+            li.mb-0.d-flex
+              i.far.fa-arrow-alt-circle-right
+              p.mb-0 <b>BLE</b> (Bluetooth Low Energy) y Zigbee están diseñados para comunicaciones de corto alcance con muy bajo consumo energético.
 
     #t_4_1.titulo-segundo(data-aos="flip-up")
       h2 #[span 4.1] Subtítulo tema
